@@ -1,0 +1,3 @@
+streamlit
+numpy
+z3-solver
